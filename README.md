@@ -2436,6 +2436,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # V
 
+### Vaibhav Raj
+- A sophomore undergraduate in B.Tech, Information Technology.
+- Interested in Full stack development.
+- Love playing Call of Duty and programming.
+-  [![github-alt][github-img]](https://github.com/Vaibhavraj10)
+
 ### Vipin Kumar
 
 - Student of Btech, computer science & engineering
